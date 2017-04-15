@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\sapko\onedrive\documents\visual studio 2015\projects\ex 6.1\ex 6.1\source.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ex 6.1.vcxproj -> C:\Users\sapko\OneDrive\Documents\Visual Studio 2015\Projects\Ex 6.1\Debug\Ex 6.1.exe
+  Ex 6.1.vcxproj -> C:\Users\sapko\OneDrive\Documents\Visual Studio 2015\Projects\Ex 6.1\Debug\Ex 6.1.pdb (Full PDB)
